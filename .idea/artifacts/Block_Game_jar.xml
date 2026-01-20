@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Block Game:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="TetrisGame.jar">
+      <element id="module-output" name="TetrisGame" />
+    </root>
+  </artifact>
+</component>
